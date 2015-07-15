@@ -104,7 +104,7 @@
         welcome: true,
         opLink: null,
         rulesLink: null,
-        themeLink: From Rock to Jazz, from Blues to Pop, everything that could be in the Awesome Mix.
+        themeLink: From Rock to Jazz, from Blues to Pop, everything that could be in the Awesome Mix.,
         fbLink: null,
         youtubeLink: null,
         website: null,
