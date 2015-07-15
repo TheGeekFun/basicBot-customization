@@ -115,7 +115,8 @@
         blacklists: {
             NSFW: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/NSFWlist.json",
             OP: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/OPlist.json",
-            BANNED: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/BANNEDlist.json"
+            THEME: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/BANNEDlist.json"
+            
         }
     }));
 
