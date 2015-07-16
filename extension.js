@@ -113,8 +113,8 @@
         songstats: true,
         commandLiteral: "!",
         blacklists: {
-            NSFW: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/NSFWlist.json",
-            OP: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/OPlist.json",
+            NSFW: "https://rawgit.com/" + fork + "/basicBot-customization/blacklists/NSFWlist.json",
+            OP: "https://rawgit.com/" + fork + "/basicBot-customization/blacklists/OPlist.json",
             THEME: "https://rawgit.com/" + fork + "/basicBot-customization/blacklists/BANNEDlist.json"
             
         }
